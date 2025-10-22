@@ -1,0 +1,153 @@
+BRUSSELS WEBSITE - SETUP INSTRUCTIONS FOR XAMPP
+===================================================
+
+This website is designed to work with XAMPP (Apache + MySQL + PHP).
+
+IMPORTANT NOTES:
+================
+1. This website is fully functional on XAMPP with database features
+2. Without a database, the website works in preview mode with static content
+3. Some pages may show errors without the database - this is expected behavior
+
+SETUP FOR XAMPP (Full Features):
+=================================
+
+Step 1: Install XAMPP
+- Download from: https://www.apachefriends.org
+- Install and start Apache and MySQL services
+
+Step 2: Copy Files
+- Copy entire project folder to XAMPP htdocs directory:
+  Windows: C:\xampp\htdocs\brussels-website\
+  Mac: /Applications/XAMPP/htdocs/brussels-website/
+  Linux: /opt/lampp/htdocs/brussels-website/
+
+Step 3: Setup Database
+- Open browser and go to: http://localhost/brussels-website/install.php
+- Enter database credentials:
+  * Host: localhost
+  * Username: root
+  * Password: (leave empty for default XAMPP)
+- Click "Install Database"
+- Wait for success message
+
+Step 4: Access Website
+- Navigate to: http://localhost/brussels-website/
+- All features should work including:
+  - Landmarks database
+  - Photo gallery
+  - Contact form submissions
+  - Visitor statistics
+
+FEATURES:
+=========
+
+Homepage (index.php)
+- Hero section with Grand Place image
+- Brussels overview
+- Feature highlights
+- Top landmarks from database
+- Statistics section
+- NIP Program preview
+- Photo gallery
+- Call to action
+
+History & Culture (pages/history.php)
+- Belgian historical timeline
+- Royal family information
+- Famous artists (Magritte, Bruegel)
+- Cultural heritage
+- Brussels City Walls story
+
+Landmarks (pages/landmarks.php)
+- 8 major Brussels landmarks
+- Detailed descriptions
+- Visit information
+- Sablon district
+- Mini-Europe
+
+Museums & Arts (pages/museums.php)
+- Royal Museums of Fine Arts
+- Magritte Museum  
+- AfricaMuseum Tervuren
+- Comic Strip Center
+- Musical Instruments Museum
+- NIP Program art experiences
+
+NIP Program (pages/nip_program.php)
+- Complete 9-day program schedule
+- Daily activities and reflections
+- Participants list
+- Learning outcomes
+- Acknowledgments
+
+Sustainability (pages/sustainability.php)
+- Sonian Forest conservation
+- BIGH Urban Farm innovation
+- Brussels green initiatives
+- Meise Botanical Garden
+- Lessons for Tanzania
+
+Democracy & Governance (pages/democracy.php)
+- European Parliament
+- Belgian Federal Parliament
+- EU institutions overview
+- Comparison of Belgian and Tanzanian democracy
+
+Contact (pages/contact.php)
+- Contact form with database storage
+- FAQ section
+- Tourist information
+- Visit planning tips
+
+DESIGN FEATURES:
+================
+- Belgian flag-inspired colors (Black, Gold, Red)
+- Fully responsive Bootstrap 5 layout
+- Smooth animations with AOS library
+- Interactive lightbox gallery
+- Mobile-friendly navigation
+- Professional typography
+- Modern gradient backgrounds
+
+TECHNICAL STACK:
+================
+- PHP 8.2+
+- MySQL Database
+- HTML5 & CSS3
+- JavaScript & jQuery
+- Bootstrap 5
+- Font Awesome Icons
+- Google Fonts
+- AOS Animations
+- Lightbox2
+
+TROUBLESHOOTING:
+================
+
+1. CSS not loading:
+   - Check Apache is running
+   - Verify path: http://localhost/brussels-website/assets/css/style.css
+   - Clear browser cache
+
+2. Database connection error:
+   - Verify MySQL is running in XAMPP
+   - Check database credentials in includes/config.php
+   - Run install.php to create database
+
+3. Images not showing:
+   - Check images exist in assets/images/
+   - Verify Apache DocumentRoot settings
+
+4. Pages show errors:
+   - This may happen without database
+   - Install database using install.php
+   - Check PHP error logs in XAMPP
+
+CREDITS:
+========
+Created by Mwenge Catholic University (MWECAU) students
+Part of North Intensive Program (NIP) 2025
+Brussels, Belgium | October 11-19, 2025
+
+For questions or support, please refer to README.md
