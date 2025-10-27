@@ -249,7 +249,7 @@ include '../includes/header.php';
                 <p>The Porte de Hal (Halle Gate) is the only surviving city gate and now houses a museum about Brussels' medieval history.</p>
             </div>
             <div class="col-lg-6" data-aos="fade-left">
-                <img src="../assets/images/st_michael_st_gudula_3a45153d.jpg" alt="Brussels Cathedral" class="img-fluid rounded shadow-lg">
+                <img src="../assets/images/IMG-20251018-WA0092.jpg" alt="Brussels Cathedral" class="img-fluid rounded shadow-lg">
             </div>
         </div>
     </div>

@@ -42,10 +42,11 @@ include '../includes/header.php';
             
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="card-custom">
+                    <img src="../assets/images/Magritte Museum.jpg" alt="Magritte Museum" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-palette"></i>
-                        </div>
+                        </div> -->
                         <h4 class="card-title">Magritte Museum</h4>
                         <p class="card-text">The world's largest collection of works by surrealist painter René Magritte, featuring over 200 paintings, sculptures, and drawings.</p>
                         <h6 class="text-gold mt-3">Featured Works:</h6>
@@ -117,10 +118,11 @@ include '../includes/header.php';
         <div class="row g-4">
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="card-custom">
+                    <img src="../assets/images/Belgian Comic Strip Center.jpg" alt="Belgian Comic Strip Center" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-book-open"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Belgian Comic Strip Center</h5>
                         <p class="card-text">Celebrates Belgium's unique comic strip heritage, featuring Tintin, The Smurfs, Lucky Luke, and many other beloved characters.</p>
                         <p class="small text-muted">Housed in a stunning Art Nouveau building by Victor Horta</p>
@@ -130,10 +132,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="card-custom">
+                    <img src="../assets/images/Musical Instruments Museum (MIM).jpg" alt="Magritte Museum" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-music"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Musical Instruments Museum (MIM)</h5>
                         <p class="card-text">Over 8,000 instruments from around the world, housed in an Art Nouveau masterpiece. Visitors receive audio guides that play the instruments as they view them.</p>
                         <p class="small text-muted">Rooftop café with panoramic Brussels views</p>
@@ -143,10 +146,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="card-custom">
+                    <img src="../assets/images/Horta Museum.jpg" alt="Horta Museum" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-home"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Horta Museum</h5>
                         <p class="card-text">The former home and studio of Victor Horta, the master of Art Nouveau architecture. Every detail showcases his innovative design philosophy.</p>
                         <p class="small text-muted">UNESCO World Heritage Site</p>
@@ -156,10 +160,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
                 <div class="card-custom">
+                    <img src="../assets/images/Natural Sciences Museum.jpg" alt="Natural Sciences Museum" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-flask"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Natural Sciences Museum</h5>
                         <p class="card-text">Europe's largest dinosaur gallery with 30 Iguanodon skeletons. Also features rooms on evolution, marine life, and urban biodiversity.</p>
                         <p class="small text-muted">Perfect for families and science enthusiasts</p>
@@ -169,10 +174,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
                 <div class="card-custom">
+                    <img src="../assets/images/Autoworld.jpg" alt="Autoworld" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-car"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Autoworld</h5>
                         <p class="card-text">One of the world's largest car museums with over 300 vehicles from 1886 to present, showcasing automotive history and evolution.</p>
                         <p class="small text-muted">Located in Cinquantenaire Park</p>
@@ -182,10 +188,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
                 <div class="card-custom">
+                    <img src="../assets/images/Belgian Brewers Museum.jpg" alt="Belgian Brewers Museum" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-beer"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Belgian Brewers Museum</h5>
                         <p class="card-text">Located near the Grand Place, this museum celebrates Belgium's rich beer-brewing tradition with over 1,500 varieties of Belgian beer.</p>
                         <p class="small text-muted">Includes tasting sessions!</p>
