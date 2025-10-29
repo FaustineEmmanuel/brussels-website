@@ -3,11 +3,11 @@
 
 An attractive and responsive website about Brussels, Belgium, created for the North Intensive Program (NIP) 2025.
 
-## 🌟 About This Project
+##  About This Project
 
 This website showcases Brussels' rich history, stunning landmarks, world-class museums, European institutions, and sustainability initiatives. It was developed as part of a cultural and educational exchange between Mwenge Catholic University (MWECAU) in Tanzania and Erasmus University College Brussels in Belgium.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript, jQuery
 - **Backend**: PHP 7.4+
@@ -19,7 +19,7 @@ This website showcases Brussels' rich history, stunning landmarks, world-class m
   - Font Awesome icons
   - Google Fonts
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 brussels-website/
@@ -46,7 +46,7 @@ brussels-website/
 └── README.md
 ```
 
-## 🚀 XAMPP Setup Instructions
+##  XAMPP Setup Instructions
 
 ### Step 1: Install XAMPP
 1. Download XAMPP from [https://www.apachefriends.org](https://www.apachefriends.org)
@@ -79,7 +79,7 @@ brussels-website/
 2. Navigate to: `http://localhost/brussels-website` or `http://localhost/index.php`
 3. The website should load with all features working!
 
-## 📊 Database Tables
+##  Database Tables
 
 The website uses the following MySQL tables:
 
@@ -88,7 +88,7 @@ The website uses the following MySQL tables:
 - **comments**: Visitor feedback and contact form submissions
 - **visitor_stats**: Page visit tracking statistics
 
-## 🎨 Features
+##  Features
 
 ### 1. Home Page
 - Stunning hero section with Grand Place image
@@ -139,7 +139,7 @@ The website uses the following MySQL tables:
 - Tourist information
 - Visit planning tips
 
-## 🎨 Design Features
+##  Design Features
 
 ### Color Scheme
 Inspired by the Belgian flag:
@@ -164,7 +164,7 @@ Inspired by the Belgian flag:
 - Interactive navigation with active states
 - Form validation
 
-## 📝 Content Sources
+##  Content Sources
 
 All content is based on:
 - North Intensive Program (NIP) Report 2025
@@ -172,7 +172,7 @@ All content is based on:
 - European Union institutions documentation
 - Personal experiences of MWECAU students in Brussels
 
-## 👥 Credits
+##  Credits
 
 ### Development Team
 This website was created by students from Mwenge Catholic University (MWECAU) as part of the North Intensive Program 2025.
@@ -187,11 +187,11 @@ This website was created by students from Mwenge Catholic University (MWECAU) as
 - Mwenge Catholic University (MWECAU)
 - All Belgian and Tanzanian participants
 
-## 📄 License
+##  License
 
 This project was created for educational purposes as part of the North Intensive Program (NIP) 2025.
 
-## 🌐 Browser Support
+##  Browser Support
 
 - Chrome (recommended)
 - Firefox
@@ -199,7 +199,7 @@ This project was created for educational purposes as part of the North Intensive
 - Edge
 - Opera
 
-## 📱 Contact
+##  Contact
 
 For questions or feedback about this project, please use the contact form on the website.
 
@@ -207,7 +207,7 @@ For questions or feedback about this project, please use the contact form on the
 
 **Asante sana - Thank you so much!**
 
-*Developed with ❤️ for the North Intensive Program 2025*
+*Developed with ❤️ for the North Intensive Program 2025 by FaustineEmmanuel*
 *Brussels, Belgium | October 11-19, 2025*
 =======
 # brussels-website

@@ -38,6 +38,10 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
                         <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'active' : ''; ?>" href="/index.php">Home</a>
+
+                    <li class="nav-item">
+                        <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'nip_program.php' ? 'active' : ''; ?>" href="/pages/nip_program.php">Program</a>
+                    
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'history.php' ? 'active' : ''; ?>" href="/pages/history.php">History</a>
@@ -46,10 +50,9 @@
                         <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'landmarks.php' ? 'active' : ''; ?>" href="/pages/landmarks.php">Landmarks</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'museums.php' ? 'active' : ''; ?>" href="/pages/museums.php">Museums & Arts</a>
+                        <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'museums.php' ? 'active' : ''; ?>" href="/pages/museums.php">Museums</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'nip_program.php' ? 'active' : ''; ?>" href="/pages/nip_program.php">NIP Program</a>
+                    
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'sustainability.php' ? 'active' : ''; ?>" href="/pages/sustainability.php">Sustainability</a>
@@ -64,3 +67,6 @@
             </div>
         </div>
     </nav>
+    <!-- End of Navigation -->
+</body>
+</html>

@@ -87,10 +87,12 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="card-custom">
+                    <img src="../assets/images/Basilica of the Sacred Heart.jpg" alt="Galeries Royales" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-church"></i>
-                        </div>
+                        </div> -->
+                        
                         <h5 class="card-title">Basilica of the Sacred Heart</h5>
                         <p class="card-text">The 5th largest church in the world, located in Koekelberg. This Art Deco masterpiece offers panoramic views of Brussels from its dome.</p>
                         <p class="small text-muted"><i class="fas fa-ruler-vertical me-2"></i>89 meters high, 167 meters long</p>
@@ -100,10 +102,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
                 <div class="card-custom">
+                    <img src="../assets/images/Palais de Justice.jpg" alt="Galeries Royales" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-landmark"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Palais de Justice</h5>
                         <p class="card-text">One of the largest buildings constructed in the 19th century, this massive neo-classical courthouse dominates the Brussels skyline.</p>
                         <p class="small text-muted"><i class="fas fa-building me-2"></i>Larger than St. Peter's Basilica</p>
@@ -113,10 +116,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
                 <div class="card-custom">
+                    <img src="../assets/images/Cinquantenaire Arch.jpg" alt="Galeries Royales" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-monument"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Cinquantenaire Arch</h5>
                         <p class="card-text">A triumphal arch built for Belgium's 50th anniversary of independence. The park surrounding it houses several museums.</p>
                         <p class="small text-muted"><i class="fas fa-calendar me-2"></i>Built in 1880, completed in 1905</p>
@@ -126,10 +130,11 @@ include '../includes/header.php';
             
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
                 <div class="card-custom">
+                    <img src="../assets/images/Parc du Cinquantenaire.jpg" alt="Galeries Royales" class="card-img-top">
                     <div class="card-body">
-                        <div class="card-icon">
+                        <!-- <div class="card-icon">
                             <i class="fas fa-tree"></i>
-                        </div>
+                        </div> -->
                         <h5 class="card-title">Parc du Cinquantenaire</h5>
                         <p class="card-text">A beautiful urban park featuring formal gardens, museums, and the iconic triumphal arch. Perfect for leisurely walks and picnics.</p>
                         <p class="small text-muted"><i class="fas fa-leaf me-2"></i>30 hectares of green space</p>

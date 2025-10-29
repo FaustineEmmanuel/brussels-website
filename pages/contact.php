@@ -207,7 +207,7 @@ include '../includes/header.php';
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body">
-                                We recommend at least 3-4 days to experience Brussels properly. This allows time for major landmarks (Grand Place, Atomium, Royal Museums), EU institutions, day trips (like Bruges or Ghent), and enjoying Belgian cuisine and culture at a relaxed pace.
+                                We recommend at least 5-10 days to experience Brussels properly. This allows time for major landmarks (Grand Place, Atomium, Royal Museums), EU institutions, day trips (like Bruges or Ghent), and enjoying Belgian cuisine and culture at a relaxed pace.
                             </div>
                         </div>
                     </div>
