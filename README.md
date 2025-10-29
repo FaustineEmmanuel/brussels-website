@@ -207,7 +207,7 @@ For questions or feedback about this project, please use the contact form on the
 
 **Asante sana - Thank you so much!**
 
-*Developed with ❤️ for the North Intensive Program 2025 by FaustineEmmanuel*
+*Developed with ❤️ for the North Intensive Program 2025 by Faustine*
 *Brussels, Belgium | October 11-19, 2025*
 =======
 # brussels-website
